@@ -1,0 +1,854 @@
+body{
+  overflow-x: hidden;
+}
+/* блок 1 */
+
+.conteiner{
+  margin: 74px 8px auto 33px;
+  position: relative;
+}
+.map{
+  background: url(picture/CHINA.png) no-repeat;
+  width: 985px;
+  height: 779px;
+  margin: 78px 235px 222px 181px;
+  position: absolute;
+}
+.name{
+  margin: 0px 206px 834px 152px;
+  padding: 78px 29px 612px 29px;
+  position: absolute;
+  width: 928px;
+  height: 245px;
+}
+.offer{
+  margin: 548px 561px 249px 46px;
+  position: absolute;
+}
+.plashka{
+  width: 750px;
+  height: 143px;
+  background: rgba(255, 255, 255, 0.53);
+    backdrop-filter: blur(20px);
+    border-radius: 30px;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.text{
+  font-family: system-ui;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 45px;
+    color: #353535;
+    text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    margin-top: 31px;
+    margin-bottom: -24px;
+    text-transform: none;
+}
+.person{
+  position: absolute;
+  margin: 156px 8px 0 870px;
+}
+.button{
+  background: #FFDCB0;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+  font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 23px;
+    line-height: 28px;
+    color: #303030;
+    padding: 18px;
+    width: 245px;
+    margin: 190px 1020px 196px 0px;
+}
+
+/* Ролик */
+
+.video{
+  background:url(picture/Rectangle\ 99.png) no-repeat;
+  margin: 1200px 195px 0 195px;
+  padding: 259px 428px;
+  border-radius: 30px;
+  position: absolute;
+}
+
+/* Блок 2 */
+.blocktwo{
+  padding-bottom: 250px;
+}
+.plashka2{
+  background: url(picture/Rectangle\ 5.png) no-repeat;
+  width: 853px;
+  height: 102px;
+  position: absolute;
+  margin: 1940px 238px 0 275px;
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+  padding: 23px 24px 24px 15px;
+}
+.about{
+  position: absolute;
+  font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 45px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+    margin: 2112px 293px 0 310px;
+}
+.kubic1{
+  margin-top: 1885px;
+}
+.kubic2{
+  margin-left: 1275px;
+}
+ul{
+  list-style-image: url(picture/Ellipse\ 1.png);
+}
+
+/* Блок 3 */
+
+.plashka3{
+  background: url(picture/Rectangle\ 6.png) no-repeat;
+  border-radius: 30px;
+  padding: 23px 33px;
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+  margin-left: 500px;
+}
+.neiro{
+position: absolute;
+  background: url(picture/NEIRO.png) no-repeat;
+  width: 1482.78px;
+  height: 1653.04px;
+  margin-top: -670px;
+  opacity: 0.50;
+}
+.web{
+  width: 1606px;
+  padding-top: 290px;
+  padding-left: 120px;
+}
+.rivzan2{
+  width: 810px;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: -120px;
+}
+.author{
+  margin: 45px 100px 0 500px;
+  font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 70px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+}
+.fon{
+  position: absolute;
+    margin-left: 939px;
+    margin-top: -700px
+}
+
+/* Блок 4 */
+
+.conteiner4{
+  position: relative;
+  margin: 161px 0 0 111px;
+}
+.plashka4{
+  background: url(picture/Rectangle\ 7.png) no-repeat;
+  width: 796px;
+  height: 145px;
+  padding: 19px 46px;
+  border-radius: 30px;
+  margin: 26px 626px 0 44px;
+    font-family: 'Georgia';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 45px;
+      line-height: 55px;
+      text-transform: uppercase;
+      font-feature-settings: 'liga' off;
+      color: #353535;
+}
+.result{
+  margin: 51px 0 0 13px;
+  font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 45px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+}
+.present{
+position: absolute;
+  background: url(picture/Present.png) no-repeat;
+  height: 100%;
+  width: 34%;
+  margin-left: 923px;
+  margin-top: -600px;
+}
+
+/* Доп инфо */
+
+.crown{
+  margin-left: 550px;
+}
+.line{
+  margin-left: -664px;
+}
+.dop{
+  margin: 60px 73px 0 72px;
+  font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 70px;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+    margin-left: 290px;
+}
+.position{
+  margin-left: 100px;
+  }
+.textin{
+  text-transform: none;
+    font-weight: 100;
+    font-family: system-ui;
+}
+
+/* Блок 5 */
+.fonimg{
+  background:url(picture/PROGRAM.png) no-repeat;
+}
+.conteiner5{
+    margin: 11px 0 0 0;
+      background: url(picture/greatline.png) no-repeat;
+      background-size: 45%;
+      background-position: right 47% bottom 58%;
+}
+.bigline{
+  width: 100%;
+  margin-top: 189px;
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 55px;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+}
+.centername{
+  margin-left: 500px;
+}
+.circles{
+position: absolute;
+  background: url(picture/circles.png) no-repeat;
+  width: 551px;
+  height: 551px;
+  margin-top: -180px;
+}
+.prg{
+  position: absolute;
+  background: url(picture/PROGRAM.png) no-repeat;
+  width: 100%;
+  height: 300%;
+  margin-top: 135px;
+}
+.info1{
+  background: url(picture/Rectangle\ 6.png) no-repeat;
+  padding: 15px 0 27px 25px;
+  border-radius: 30px;
+  font-family: 'Gilroy';
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+    margin: 88px 48px 0 353px;
+}
+.info2{
+  background: url(picture/Rectangle\ 7.png) no-repeat;
+  padding: 15px 0 26px 24px;
+  border-radius: 30px;
+  font-family: 'Gilroy';
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+  margin: 47px 331px 0 79px;
+  position: relative;
+}
+.info3{
+  background: url(picture/Rectangle\ 8.png) no-repeat;
+  padding: 15px 15px 8px 24px;
+  border-radius: 30px;
+    font-family: 'Gilroy';
+      font-style: normal;
+      font-size: 30px;
+      line-height: 40px;
+      font-feature-settings: 'liga' off;
+      color: #353535;
+  margin: 40px 48px 0 485px;
+    position: relative;
+}
+.circles2{
+    position: absolute;
+      background: url(picture/circles2.png) no-repeat;
+      width: 27%;
+      height: 551px;
+      margin-left: 1120px;
+      margin-top: -217px;
+}
+.info4{
+  background: url(picture/Rectangle\ 9.png) no-repeat;
+  padding: 15px 0 9px 24px;
+  border-radius: 30px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+  margin: 33px 334px 0 91px;
+  position: relative;
+}
+.course{
+    position: absolute;
+      background: url(picture/course.png) no-repeat;
+      width: 9%;
+      height: 206%;
+      margin-left: 1300px;
+      margin-top: -175px;
+}
+.info5{
+background: url(picture/Rectangle\ 10.png) no-repeat;
+  padding: 17px 19px 22px 28px;
+  border-radius: 30px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-size: 30px;
+  line-height: 40px;
+  font-feature-settings: 'liga' off;
+  color: #353535;
+  margin: 15px 47px 0 564px;
+  position: relative;
+}
+.circles3{
+    position: absolute;
+      background: url(picture/circles.png) no-repeat;
+      width: 31%;
+      height: 140%;
+      margin-left: -592px;
+      margin-top: -457px;
+}
+.info6{
+  background: url(picture/Rectangle\ 11.png) no-repeat;
+  width: 890px;
+  padding: 17px 13px 1px 28px;
+    border-radius: 30px;
+      font-family: 'Gilroy';
+      font-style: normal;
+      font-size: 30px;
+      line-height: 40px;
+      font-feature-settings: 'liga' off;
+      color: #353535;
+  margin: 45px 374px 0 102px;
+  position: relative;
+}
+.circles4{
+    position: absolute;
+      background: url(picture/circles3.png) no-repeat;
+      width: 29%;
+      height: 256%;
+      margin-left: 1111px;
+      margin-top: -258px;
+}
+.info7{
+background: url(picture/Rectangle\ 12.png) no-repeat;
+  padding: 17px 14px 17px 28px;
+  border-radius: 30px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-size: 30px;
+  line-height: 40px;
+  font-feature-settings: 'liga' off;
+  color: #353535;
+  margin: 41px 125px 0 678px;
+  position: relative;
+}
+.circles5{
+  position: absolute;
+  background: url(picture/circles.png) no-repeat;
+  width: 40%;
+  height: 196%;
+  margin-left: -716px;
+  margin-top: 328px;
+}
+.prg2{
+position: absolute;
+  background: url(picture/PROGRAM.png) no-repeat;
+  width: 100%;
+  height: 490%;
+  margin-left: -600px;
+  margin-top: 210px;
+}
+.info8{
+  background: url(picture/Rectangle\ 13.png) no-repeat;
+  padding: 17px 17px 17px 28px;
+  border-radius: 30px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+  margin: 41px 446px 0 102px;
+  position: relative;
+}
+.info9{
+  position: relative;
+  background: url(picture/Rectangle\ 14.png) no-repeat;
+  padding: 21px 17px 10px 28px;
+  border-radius: 30px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+  margin: 37px 18px 0 306px;
+}
+
+.info10{
+  background: url(picture/Rectangle\ 15.png) no-repeat;
+  padding: 17px 17px 10px 28px;
+  border-radius: 30px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+  margin: 70px 512px 0 115px;
+  position: relative;
+}
+.circles6 {
+  position: absolute;
+  background: url(picture/circles2.png) no-repeat;
+  width: 31%;
+  height: 169%;
+  margin-left: 1072px;
+  margin-top: 183px;
+}
+
+/* Блок 5 */
+
+.conteiner8{
+  margin: 33px 40px 0 67px;
+}
+.price{
+  margin: 0 441px 0 437px;
+}
+.price1{
+display: inline-block;
+margin-right: 38px;
+}
+.price2{
+display: inline-block;
+margin-right: 38px;
+margin-top: 60px;
+}
+.price3{
+display: inline-block;
+margin-right: 3px;
+}
+.standard{
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    line-height: 140px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #353535;
+        position: absolute;
+          margin-top: -40px;
+          margin-left: 45px;
+}
+.premium{
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    line-height: 140px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #353535;
+    position: absolute;
+      margin-top: -45px;
+      margin-left: 55px;
+}
+.vip{
+  background: url(picture/crown\ 1.png) no-repeat;
+    background-position-x: center;
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    line-height: 140px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #353535;
+    position: absolute;
+      margin-top: -45px;
+      margin-left: 150px;
+}
+.aboutinfoprice{
+  background: url(picture/Rectangle\ 72.png) no-repeat;
+  border-radius: 40px;
+    font-family: 'Gilroy';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 35px;
+      letter-spacing: 0.01em;
+      color: #000000;
+  padding: 36px 100px 17px 41px;
+}
+.aboutinfoprice2 {
+  background: url(picture/Rectangle\ 73.png) no-repeat;
+  border-radius: 40px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 35px;
+  letter-spacing: 0.01em;
+  color: #000000;
+  padding: 60px 80px 17px 52px;
+}
+.aboutinfoprice3 {
+  background: url(picture/Rectangle\ 74.png) no-repeat;
+  border-radius: 40px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 35px;
+  letter-spacing: 0.01em;
+  color: #000000;
+  padding: 57px 90px 20px 44px;
+}
+.money{
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #353535;
+}
+.buy{
+  background: radial-gradient(137.36% 137.36% at -18.68% -23.44%, #FFFFFF 0%, rgba(255, 255, 255, 0.94) 100%);
+    box-shadow: 10px -10px 20px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(70px);
+    border-radius: 20px;
+
+    font-family: 'Georgia';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 30px;
+      line-height: 50px;
+      text-align: center;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+    
+      color: #DD290F;
+    padding: 0 39px;
+}
+.moneybefor{
+  display: -webkit-box;
+}
+.preorder{
+  background: radial-gradient(137.36% 137.36% at -18.68% -23.44%, #FFFFFF 0%, rgba(255, 255, 255, 0.94) 100%);
+    box-shadow: 10px -10px 20px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(70px);
+    border-radius: 20px;
+    font-family: 'Georgia';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 40px;
+      text-align: center;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      color: #000000;
+    margin-left: 30px;
+      margin-right: 80px;
+      margin-top: 37px;
+    }
+
+.conteiner9{
+  margin: 10px 0 0 0;
+}
+.neiro2{
+  background: url(picture/NEIRO2.jpg) no-repeat;
+  width: 1500px;
+  height: 1309px;
+  background-position: center;
+  }
+.plashka9{
+  background: url(picture/lowd.png) no-repeat;
+  padding: 27px 57px;
+  border-radius: 30px;
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    margin-left: 600px;
+    margin-top: 150px;
+}
+.case{
+  background: url(picture/caseplashka.png) no-repeat;
+  padding: 50px;
+  width: 1137px;
+  height: 644px;
+  border-radius: 30px;
+  margin-top: 97px;
+  margin-left: 130px;
+}
+.smallriv{
+  display: inline-block;
+  width: 346px;
+  height: 346px;
+  margin-top: 30px;
+  margin-left: 20px;
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 33px;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+    text-align: center;
+}
+.casetextabout{
+  display: inline-block;
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    color: #353535;
+  margin-left: 20px;
+}
+.l{
+  position: absolute;
+  margin-left: -140px;
+  margin-top: 280px;
+}
+
+.r{
+  position: absolute;
+  margin-left: 1200px;
+  margin-top: 280px;
+}
+
+
+.conteiner10{
+  width: 1500px;
+  height: 1106px;
+}
+.head{
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+    margin-top: 102px ;
+}
+.about1{
+  background: url(picture/Rectangle\ 87.png) no-repeat;
+  padding: 30px 40px 29px 97px;
+  margin: 79px 45px 0 112px;
+  border-radius: 40px;
+
+  font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 70px;
+    font-feature-settings: 'liga' off;
+    color: #353535;
+
+    position: relative;
+}
+.st1{
+  position: absolute;
+  margin-top: -60px;
+  margin-left: -60px;
+}
+.dopelip1{
+  background: url(picture/Ellipse\ 45.png) no-repeat;
+  padding: 30px;
+    font-family: 'Asap';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 60px;
+      line-height: 35px;
+      letter-spacing: 0.01em;
+      color: #000000;
+      margin-left: 450px;
+}
+.about2 {
+  background: url(picture/Rectangle\ 87.png) no-repeat;
+  padding: 26px 273px 33px 277px;
+  margin: 80px 33px 0 124px;
+  border-radius: 40px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 70px;
+  font-feature-settings: 'liga' off;
+  color: #353535;
+  position: relative;
+}
+.st2{
+  position: absolute;
+    margin-top: -56px;
+    margin-left: -245px;
+}
+.dopelip2 {
+  background: url(picture/Ellipse\ 45.png) no-repeat;
+  padding: 30px;
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 35px;
+  letter-spacing: 0.01em;
+  color: #000000;
+  margin-left: 247px;
+}
+.about3 {
+  background: url(picture/Rectangle\ 87.png) no-repeat;
+  padding: 30px 178px 29px 97px;
+  margin: 80px 33px 0 124px;
+  border-radius: 40px;
+
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 70px;
+  font-feature-settings: 'liga' off;
+  color: #353535;
+  position: relative;
+}
+.st3 {
+  position: absolute;
+  margin-top: -60px;
+  margin-left: -60px;
+}
+.dopelip3 {
+  background: url(picture/Ellipse\ 45.png) no-repeat;
+  padding: 30px;
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 35px;
+  letter-spacing: 0.01em;
+  color: #000000;
+  margin-left: 410px;
+}
+.rc{
+  position: absolute;
+  margin-left: 1298px;
+  margin-top: -170px;
+}
+.lc{
+  position: absolute;
+  margin-left: -5px;
+  margin-top: 106px;
+}
+.dc{
+  position: absolute;
+  margin-left: 334px;
+  margin-top: 35px;
+}
+.end{
+  font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 50px;
+    color: #000000;
+}
+.tx{
+  display: inline;
+  margin: 70px;
+}
+.tx2 {
+  display: inline;
+  margin: 230px;
+}
+.net{
+background: url(picture/net2.png) no-repeat;
+  width: 2000px;
+  height: 481px;
+  position: absolute;
+  margin-top: -300px;
+}
+.wrapper{
+  width: auto;
+  height: auto;
+}
